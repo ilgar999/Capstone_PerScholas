@@ -1,5 +1,6 @@
 # Capstone_PerScholas
 DESIGNING A SECURE NETWORK FOR PER SCHOLAS GREATER BOSTON CAMPUS
+<img width="953" alt="Screenshot 2024-04-01 005809" src="https://github.com/ilgar999/Capstone_PerScholas/assets/74115883/e09f187a-6dd7-4cac-83ba-19e01bfa9514">
 
 CAPSTONE PROJECT ASSIGNMENT
 Date: 03/08/2024
